@@ -1,0 +1,8 @@
+{
+    "env": {
+      "jquery": true
+    },
+    "rules":{
+      "id-suffix":2  // 2 indicates violations should be treated as errors
+    }
+}

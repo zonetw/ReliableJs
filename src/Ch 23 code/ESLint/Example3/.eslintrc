@@ -1,0 +1,9 @@
+{
+    "rules": {
+      "curly": 0, // 0 disables the rule
+      "semi": 1   // 1 treats violations of the rule as a warning
+    },
+    "env": {
+      "jquery": true
+    }
+}
